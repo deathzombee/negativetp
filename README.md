@@ -8,10 +8,10 @@ clock to the time reported by the server.
 
 $${\color{red}FREEBSD SUCKS}$$
 
-[https://github.com/ghewgill/sntpc](~~This was built out of necessity for an OpenBSD client running inside vmm. Under
+[~~This was built out of necessity for an OpenBSD client running inside vmm. Under
 some conditions, the local clock runs slow enough that ntpd cannot adjust the
 time fast enough with adjtime. The result is that the local clock loses time
-and cannot recover.~~)
+and cannot recover.~~](https://github.com/ghewgill/sntpc)
 
 $${\color{red}FREEBSD SUCKS}$$
 
